@@ -44,8 +44,8 @@
                         <input type="email" name="mail">
                     </p>
                     <p>
-                        <label>Cotraseña</label>
-                        <input type="text" name="password">
+                    <label>Contraseña</label>
+                    <input type="password" name="password">
                     <p class="block">
                         <button class='button'>Iniciar sesion</button>
                     </p>

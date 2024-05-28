@@ -11,7 +11,7 @@
     <!-- FONT AWESOME CSS -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <!-- CSS ANIMADAS -->
-    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="estilos2.css">
     <script src="JAVASCRIPT/app.js" async></script>
     <script src="https://kit.fontawesome.com/4f730f639e.js" crossorigin="anonymous"></script>
     <title>Tienda</title>
@@ -53,7 +53,7 @@
             </div>
             <div class="item">
                 <span class="titulo-item">Iphone 14</span>
-                <img src="IMAGENES/iphone14.png" alt="" class="img-item">
+                <img src="IMAGENES/Iphone14.png" alt="" class="img-item">
                 <span class="precio-item">859€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>

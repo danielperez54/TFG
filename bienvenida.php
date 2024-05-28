@@ -84,6 +84,9 @@
         <div class="slider-img">
             <img src="IMAGENES/razer.png" alt="6" />
         </div>
+        <div class="slider-img">
+            <img src="IMAGENES/msi.jpg" alt="1" />
+        </div>
     </div>
     <hr>
 </section>
