@@ -97,6 +97,7 @@ nav ul li a{
     /* width: 60%; */
     width: 100%;
     transition: .3s;
+    
 }
 .contenedor .contenedor-items .item{
     width: 215px;

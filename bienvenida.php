@@ -26,7 +26,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Website with a contact Form 01</title>
-    <link rel="stylesheet" href="CSS/bienvenida2.css">
+    <link rel="stylesheet" href="CSS/bienvenida3.css">
     <!-- GOOGLE FONTs LETRAS-->
     <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
     <!-- FONT AWESOME CSS -->
@@ -51,7 +51,7 @@
                 <nav>
                     <ul>
                         <li><a href="bienvenida.php">Inicio</a></li>
-                        <li><a href="tienda.php">Tienda</a></li>  
+                        <li><a href="tienda_general.php">Tienda</a></li>  
                         <li><a href="PHP/cerrar_sesion.php"><i class="fa-solid fa-arrow-right-from-bracket"></i></a></li>        
                     </ul>
                 </nav>
@@ -119,7 +119,7 @@
                     <i class="bx bxs-star-half"></i>
                 </div>
                 <p>En TEKNOCITY disponemos de los dispositivos moviles de ultima generación.</p>
-                <a href="moviles">Ver</a>
+                <a href="tienda.php">Ver</a>
             </div>
         </div>
     </div>
@@ -140,7 +140,7 @@
                     <i class="bx bxs-star-half"></i>
                 </div>
                 <p>Aquí podras ver toda la variedad de portatiles como para la vida laboral como para el gamming</p>
-                <a href="moviles">Ver</a>
+                <a href="tienda2.php">Ver</a>
             </div>
         </div>
     </div>
@@ -162,7 +162,7 @@
                     <i class="bx bxs-star"></i>
                 </div>
                 <p>Tenemos todo tipo de variedad de perifericos haciendo click en ver podras ver todos</p>
-                <a href="moviles">Ver</a>
+                <a href="tienda3.php">Ver</a>
             </div>
         </div>
     </div>
@@ -195,7 +195,7 @@
 
 <div class="card1">
     <div class="card_landing1" style="--i:url(curso1.jpg)">
-    <img src="curso1.png" alt="" width="300px" height="400px" position="fixed">
+    <img src="curso1.png" alt="" width="300px" height="400px">
         <h6>Curso de formación</h6>
     </div>
     <div class="card_info1">

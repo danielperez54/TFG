@@ -11,7 +11,7 @@
     <!-- FONT AWESOME CSS -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <!-- CSS ANIMADAS -->
-    <link rel="stylesheet" href="estilos2.css">
+    <link rel="stylesheet" href="estilos.css">
     <script src="JAVASCRIPT/app.js" async></script>
     <script src="https://kit.fontawesome.com/4f730f639e.js" crossorigin="anonymous"></script>
     <title>Tienda</title>
@@ -40,77 +40,70 @@
         <!-- Contenedor de elementos -->
         <div class="contenedor-items">
             <div class="item">
-                <span class="titulo-item">Iphone 15 PRO</span>
-                <img src="IMAGENES/iphone15pro.png" alt="" class="img-item">
-                <span class="precio-item">1.219€</span>
+                <span class="titulo-item">APPLE Watch SE (2023)</span>
+                <img src="IMAGENES/applereloj1.png" alt="" class="img-item">
+                <span class="precio-item">249€</span>
                 <button class="boton-item">Agregar al Carrito</button>
+                <!--https://www.mediamarkt.es/es/product/_apple-watch-se-2023-gps-40-mm-caja-de-aluminio-medianoche-vidrio-delantero-ion-x-talla-sm-correa-deportiva-medianoche-1561381.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw9vqyBhCKARIsAIIcLMFEtBUNkkRaI9Qma7IJoMxItmDMOGgp8gmGo9uG8Voc0JD_CPq5ps0aAtskEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">Iphone 15</span>
-                <img src="IMAGENES/iphone15.png" alt="" class="img-item">
-                <span class="precio-item">959€</span>
-                <button class="boton-item">Agregar al Carrito</button>
-            </div>
-            <div class="item">
-                <span class="titulo-item">Iphone 14</span>
-                <img src="IMAGENES/iphone14.png" alt="" class="img-item">
-                <span class="precio-item">859€</span>
-                <button class="boton-item">Agregar al Carrito</button>
-            </div>
-            <div class="item">
-                <span class="titulo-item">Iphone SE</span>
-                <img src="IMAGENES/IphoneSE.png" alt="" class="img-item">
-                <span class="precio-item">529€</span>
-                <button class="boton-item">Agregar al Carrito</button>
-            </div>
-            <div class="item">
-                <span class="titulo-item">Samsung A25</span>
-                <img src="IMAGENES/Samsunga25.png" alt="" class="img-item">
-                <span class="precio-item">250€</span>
-                <button class="boton-item">Agregar al Carrito</button>
-            </div>
-            <div class="item">
-                <span class="titulo-item">Samsung S23</span>
-                <img src="IMAGENES/SamsunS23.png" alt="" class="img-item">
-                <span class="precio-item">650€</span>
-                <button class="boton-item">Agregar al Carrito</button>
-            </div>
-            <div class="item">
-                <span class="titulo-item">Samsung A35</span>
-                <img src="IMAGENES/Samsunga35.png" alt="" class="img-item">
+                <span class="titulo-item">Apple Watch Series 9 (2023)</span>
+                <img src="IMAGENES/applereloj2.png" alt="" class="img-item">
                 <span class="precio-item">399€</span>
                 <button class="boton-item">Agregar al Carrito</button>
+                <!--https://www.mediamarkt.es/es/product/_apple-watch-series-9-2023-gps-41-mm-gesto-de-doble-toque-caja-de-aluminio-rosa-correa-deportiva-rosa-talla-sm-1561423.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw9vqyBhCKARIsAIIcLMFzgPMWDjliZBLy7FhbnsKQ9UZuPIz652LySBged7GFmHKaCa9cVKsaAtQAEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">Samsung A55</span>
-                <img src="IMAGENES/Samsnga55.png" alt="" class="img-item">
-                <span class="precio-item">499€</span>
+                <span class="titulo-item">Apple Watch Ultra 2 (2023)</span>
+                <img src="IMAGENES/applereloj3.png" alt="" class="img-item">
+                <span class="precio-item">859€</span>
                 <button class="boton-item">Agregar al Carrito</button>
+                <!--https://www.mediamarkt.es/es/product/_apple-watch-ultra-2-2023-gps-cellular-49-mm-caja-de-titanio-gesto-doble-toque-correa-ocean-band-de-color-azul-1561488.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-RESTO.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw9vqyBhCKARIsAIIcLMHHagV3TmqjU2nyJntN4RbOHyC3qcSeyOOQCqXFR102ekmy5YtI6asaAsoTEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">Xiaomi Redmi 12</span>
-                <img src="IMAGENES/XiaomiRedmi12.png" alt="" class="img-item">
-                <span class="precio-item">129€</span>
+                <span class="titulo-item">Smartwatch - Samsung Watch 4 BT</span>
+                <img src="IMAGENES/samsungreloj1.png" alt="" class="img-item">
+                <span class="precio-item">149€</span>
                 <button class="boton-item">Agregar al Carrito</button>
+                <!--https://www.mediamarkt.es/es/product/_smartwatch-samsung-watch-4-bt-40-mm-12-exynos-w920-16-gb-240-mah-ip68-gold-1513905.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw9vqyBhCKARIsAIIcLMHoQzbS-5iGvzxbhHeLw8h8C1-oOB27D1pi-nlyGOMuLf0zbVvgq7YaAtPXEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">Xiaomi Redmi Note 13</span>
-                <img src="IMAGENES/XiaomiRedmiNote13.png" alt="" class="img-item">
-                <span class="precio-item">229€</span>
+                <span class="titulo-item">Smartwatch - Samsung Watch 4 Classic BT</span>
+                <img src="IMAGENES/samsungreloj2.png" alt="" class="img-item">
+                <span class="precio-item">169€</span>
                 <button class="boton-item">Agregar al Carrito</button>
+                <!--https://www.mediamarkt.es/es/product/_smartwatch-samsung-watch-4-classic-bt-46-mm-14-exynos-w920-16-gb-350-mah-ip68-black-1513900.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw9vqyBhCKARIsAIIcLMHZsB_Qkdh2KrXVQo8dXHvJmWlFCoCUNrK0vklcVvrp-TfYyM_J_FUaAlkbEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">Xiaomi Redmi Note 13 Pro</span>
-                <img src="IMAGENES/XiaomiRedmiNote13Pro.png" alt="" class="img-item">
-                <span class="precio-item">345€</span>
+                <span class="titulo-item">Smartwatch - Samsung Galaxy Watch6 BT</span>
+                <img src="IMAGENES/samsungreloj3.png" alt="" class="img-item">
+                <span class="precio-item">199€</span>
                 <button class="boton-item">Agregar al Carrito</button>
+                <!--https://www.mediamarkt.es/es/product/_smartwatch-samsung-galaxy-watch6-bt-40mm-131-exynos-w930-16gb-2gb-ram-300mah-oro-1557006.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw9vqyBhCKARIsAIIcLMEPtJcsG7epQc3tBgMoaCQrumkdmFJLCHW3Uu-fmEyh3algWzhZCKsaAufIEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">Xiaomi Redmi 13C</span>
-                <img src="IMAGENES/XiaomiRedmi13C.png" alt="" class="img-item">
-                <span class="precio-item">139€</span>
+                <span class="titulo-item">Smartwatch - Xiaomi Redmi Watch 3 Active</span>
+                <img src="IMAGENES/xiaomireloj1.png" alt="" class="img-item">
+                <span class="precio-item">34€</span>
                 <button class="boton-item">Agregar al Carrito</button>
+                <!--https://www.mediamarkt.es/es/product/_smartwatch-xiaomi-redmi-watch-3-active-llamadas-bluetooth-bateria-hasta-12-dias-multideporte-negro-1556662.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw9vqyBhCKARIsAIIcLMEszmLtW9AF8novUN4lyzvnSDgp1iBWFKGOiXtGF_5DHn9z37rnZXIaAjNTEALw_wcB&gclsrc=aw.ds-->
             </div>
+            <div class="item">
+                <span class="titulo-item">Smartwatch - Xiaomi Redmi Watch 4</span>
+                <img src="IMAGENES/xiaomireloj2.png" alt="" class="img-item">
+                <span class="precio-item">90€</span>
+                <button class="boton-item">Agregar al Carrito</button>
+                <!--https://www.mediamarkt.es/es/product/_smartwatch-xiaomi-redmi-watch-4-bluetooth-hasta-20-dias-multideporte-gris-plata-1567280.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-RESTO.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw9vqyBhCKARIsAIIcLMEEt-MJs7cPES4F_7TC14NfGNJDXqn3XOLbhiUPodlbCdqh2jNf-rQaAjCmEALw_wcB&gclsrc=aw.ds-->
+            </div>
+            <div class="item">
+                <span class="titulo-item">Smartwatch - Xiaomi Watch 2</span>
+                <img src="IMAGENES/xiaomireloj3.png" alt="" class="img-item">
+                <span class="precio-item">165€</span>
+                <button class="boton-item">Agregar al Carrito</button>
+                <!--https://www.mediamarkt.es/es/product/_smartwatch-xiaomi-watch-2-amoled-bluetooth-gps-dual-de-5-sistemas-150-modos-fitness-negro-1567277.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw9vqyBhCKARIsAIIcLMFWWEYlZr4pcxKyc80kEIzalGqgTT3EVWs28lu9IQ7Ov6GEAE0rNQEaApm_EALw_wcB&gclsrc=aw.ds-->
+            </div>
+            
+            
         </div>
         <!-- Carrito de Compras -->
         <div class="carrito" id="carrito">
