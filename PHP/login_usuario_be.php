@@ -37,6 +37,11 @@ error_log("Número de filas encontradas: " . $result->num_rows);
 // Verificar si se encontró un usuario con las credenciales dadas
 if ($result->num_rows > 0) {
     $_SESSION['Nombre'] = $Correo;
+
+    // Crear o cargar el carrito de la sesión
+    $_SESSION['carrito'] = isset($_SESSION['carrito']) ? $_SESSION['carrito'] : [];
+
+    // Redirigir al usuario a la página de bienvenida
     header("location: ../bienvenida.php");
     exit;
 } else {
@@ -52,4 +57,5 @@ if ($result->num_rows > 0) {
 // Cerrar la declaración y la conexión
 $stmt->close();
 $conexion->close();
+
 ?>
