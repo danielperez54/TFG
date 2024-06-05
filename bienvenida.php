@@ -183,10 +183,12 @@
                     <i class="bx bxs-star"></i>
                 </div>
                 <p>Todo tipo de variedad de smartwatch con diversas funcionalidades.</p>
-                <a href="moviles">Ver</a>
+                <a href="tienda4.php">Ver</a>
             </div>
         </div>
     </div>
+
+    
 
     
 </div>

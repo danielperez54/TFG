@@ -58,7 +58,7 @@
 
         <div class="contact-wrapper animated bounceInUp">
             <div class="contact-form">
-                <h3 class="logo">Pide tu cita aquí <span> rellenando el siguiente formulario:</span></h3>
+                <h3 class="logo">Inscribete aquí <span> rellenando el siguiente formulario:</span></h3>
                 <form method="post" action="PHP/phpmailer.php" enctype="multipart/form-data">
                     <p>
                         <label>Nombre y Apellidos</label>
@@ -81,7 +81,7 @@
                         <textarea name="Mensaje" rows="3"></textarea>
                     </p>
                     <p class="block">
-                        <button class='button' type="submit">Pedir cita</button>
+                        <button class='button' type="submit">Enviar</button>
                     </p>
                     <p class="block">
                         <button class='button' type="submit">Cancelar</button>

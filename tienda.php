@@ -198,5 +198,25 @@
 <script src="JAVASCRIPT/scrip.js"></script>     
 </footer>
 
+<script>
+    // Cargar el carrito desde el servidor cuando se carga la página
+    document.addEventListener('DOMContentLoaded', loadCarritoFromServer);
+
+    function loadCarritoFromServer() {
+        fetch('PHP/cargar_carrito.php')
+            .then(response => response.json())
+            .then(data => {
+                data.forEach(item => {
+                    agregarItemAlCarrito(item.titulo, item.precio, item.imagenSrc);
+                    document.querySelectorAll('.carrito-item').forEach(carritoItem => {
+                        if (carritoItem.getElementsByClassName('carrito-item-titulo')[0].innerText === item.titulo) {
+                            carritoItem.getElementsByClassName('carrito-item-cantidad')[0].value = item.cantidad;
+                        }
+                    });
+                });
+            });
+    }
+</script>
+
 </body>
 </html>

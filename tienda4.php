@@ -11,7 +11,7 @@
     <!-- FONT AWESOME CSS -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
     <!-- CSS ANIMADAS -->
-    <link rel="stylesheet" href="estilos.css">
+    <link rel="stylesheet" href="estilos2.css">
     <script src="JAVASCRIPT/app.js" async></script>
     <script src="https://kit.fontawesome.com/4f730f639e.js" crossorigin="anonymous"></script>
     <title>Tienda</title>
@@ -190,6 +190,26 @@
         </div>
 <script src="JAVASCRIPT/scrip.js"></script>     
 </footer>
+
+<script>
+    // Cargar el carrito desde el servidor cuando se carga la página
+    document.addEventListener('DOMContentLoaded', loadCarritoFromServer);
+
+    function loadCarritoFromServer() {
+        fetch('PHP/cargar_carrito.php')
+            .then(response => response.json())
+            .then(data => {
+                data.forEach(item => {
+                    agregarItemAlCarrito(item.titulo, item.precio, item.imagenSrc);
+                    document.querySelectorAll('.carrito-item').forEach(carritoItem => {
+                        if (carritoItem.getElementsByClassName('carrito-item-titulo')[0].innerText === item.titulo) {
+                            carritoItem.getElementsByClassName('carrito-item-cantidad')[0].value = item.cantidad;
+                        }
+                    });
+                });
+            });
+    }
+</script>
 
 </body>
 </html>
