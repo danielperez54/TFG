@@ -26,7 +26,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Website with a contact Form 01</title>
-    <link rel="stylesheet" href="CSS/bienvenida3.css">
+    <link rel="stylesheet" href="CSS/bienvenida4.css">
     <!-- GOOGLE FONTs LETRAS-->
     <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
     <!-- FONT AWESOME CSS -->
@@ -42,6 +42,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
+
+
 <header id="header">
 <div class="container__header">
             <div class="logo">
@@ -228,7 +230,7 @@
         </div>
 
         <div class="action1">
-            <a href="#" class="btn1">Inscribirse</a>
+            <a href="formulario_citas.php" class="btn1">Inscribirse</a>
         </div>
     </div>
 </div>

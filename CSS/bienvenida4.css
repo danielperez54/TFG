@@ -470,3 +470,30 @@ footer {
     height: 1px;
     background-color: #000;
 }
+.foto-cuerpo{
+    width: 600px;
+    margin-left: 800px;
+    position: static;
+    
+}
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+#video-fondo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+
+
+/*--------------------------------------------------------------------------------------------*/

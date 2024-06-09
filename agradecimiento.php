@@ -45,7 +45,7 @@
                 <nav>
                     <ul>
                         <li><a href="bienvenida.php">Inicio</a></li>
-                        <li><a href="tienda_general.php">Tienda</a></li>  
+                        <li><a href="">Tienda</a></li>  
                         <li><a href="PHP/cerrar_sesion.php"><i class="fa-solid fa-arrow-right-from-bracket"></i></a></li>        
                     </ul>
                 </nav>
@@ -58,35 +58,8 @@
 
         <div class="contact-wrapper animated bounceInUp">
             <div class="contact-form">
-                <h3 class="logo">Inscribete aquí <span> rellenando el siguiente formulario:</span></h3>
-                <form method="post" action="PHP/phpmailer.php" enctype="multipart/form-data">
-                    <p>
-                        <label>Nombre y Apellidos</label>
-                        <input type="text" name="fullname">
-                    </p>
-                    <p>
-                        <label>Direccion de correo</label>
-                        <input type="email" name="email">
-                    </p>
-                    <p>
-                        <label>Número de teléfono</label>
-                        <input type="tel" name="phone">
-                    </p>
-                    <p>
-                        <label>Explicanos tu experiencia</label>
-                        <input type="text" name="Asunto">
-                    </p>
-                    <p class="block">
-                       <label>Comentanos que te intersea aprender</label> 
-                        <textarea name="Mensaje" rows="3"></textarea>
-                    </p>
-                    <p class="block">
-                        <button class='button' type="submit">Enviar</button>
-                    </p>
-                    <p class="block">
-                        <button class='button' type="submit">Cancelar</button>
-                    </p>
-                </form>
+                <h3 class="logo">GRACIAS POR TU COMPRA!!! <span>Disfruta de tu producto y ante cualquier duda que tengas a la derecha esta nuestra info.</span></h3>
+                
             </div>
             <div class="contact-info">
                 <h4>Mas información</h4>
