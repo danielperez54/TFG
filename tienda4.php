@@ -16,7 +16,6 @@
     <script src="https://kit.fontawesome.com/4f730f639e.js" crossorigin="anonymous"></script>
     <title>Tienda</title>
 </head>
-<body>
 <header id="header">
 <div class="container__header">
             <div class="logo">
@@ -33,9 +32,15 @@
             </div>
         </div>
 </header>
+<body>
+<br><br><br><br><br>
+<div>
+<div class="propiedades-buscador">
+    <input type="text" name="buscador" id="buscador" placeholder="Busca aquí tu producto">
+    <!--<button onclick="busc()">Presioname</button>-->
+    </div>
+</div>
 
-
-<br><br><br><br>
 <section class="contenedor">
         <!-- Contenedor de elementos -->
         <div class="contenedor-items">
@@ -168,7 +173,7 @@
             </div>
             <div class="box__footer">
                <h2>Soluciones</h2>
-               <a href="formulario_citas.php">Citas</a>
+               <a href="formulario_citas.php">Inscribete al curso</a>
                <a href="Inicio_sesion.php">Inicio sesion</a>
             </div>
 
@@ -188,7 +193,8 @@
             <p>Derechos reservados © 2024
             <b>TEKNOCITY</b></p>
         </div>
-<script src="JAVASCRIPT/scrip.js"></script>     
+<script src="JAVASCRIPT/scrip.js"></script>
+<script src="JAVASCRIPT/buscador.js"></script>     
 </footer>
 
 </body>

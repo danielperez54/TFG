@@ -111,7 +111,7 @@ nav ul li a{
     width: 100%;
 }
 .contenedor .contenedor-items .item:hover{
-    box-shadow: 0 0 10px #ffffff;
+    box-shadow: 0 0 10px #ff0000;
     scale: 1.05;
 }
 .contenedor .contenedor-items .item .titulo-item{
@@ -345,4 +345,44 @@ footer {
     border: none;
     height: 1px;
     background-color: #000;
+}
+
+.filtro {
+    display: none !important;
+}
+
+.container {
+    margin-top: 50px; /* Ajusta este valor para cambiar la distancia desde la parte superior */
+}
+
+.propiedades-buscador {
+    background: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgb(234, 10, 10);
+    display: flex;
+    align-items: center;
+    width: 500px;
+    margin-left: 500px;
+    
+}
+
+.propiedades-buscador input[type="text"] {
+    width: 500px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    transition: all 0.3s ease;
+    font-size: 16px;
+    
+}
+
+.propiedades-buscador input[type="text"]::placeholder {
+    color: #888;
+}
+
+.propiedades-buscador input[type="text"]:focus {
+    box-shadow: 0 0 5px rgb(251, 13, 13);
+    border: 1px solid rgb(253, 26, 26);
 }

@@ -81,7 +81,7 @@
                         <textarea name="Mensaje" rows="3"></textarea>
                     </p>
                     <p class="block">
-                        <button class='button' type="submit">Enviar</button>
+                    <href="bienvenida.php"><button class='button' type="submit">Enviar</button></href> 
                     </p>
                     <p class="block">
                         <button class='button' type="submit">Cancelar</button>

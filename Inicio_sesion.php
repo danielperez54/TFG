@@ -78,7 +78,7 @@
             </div>
             <div class="box__footer">
                <h2>Soluciones</h2>
-               <a href="formulario_citas.php">Citas</a>
+               <a href="formulario_citas.php">Inscribete al curso</a>
                <a href="Inicio_sesion.php">Inicio sesion</a>
             </div>
 
