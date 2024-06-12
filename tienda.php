@@ -48,73 +48,73 @@
         <!-- Contenedor de elementos -->
         <div class="contenedor-items">
             <div class="item">
-                <span class="titulo-item">Iphone 15 PRO</span>
+                <span class="titulo-item">Móvil - Iphone 15 PRO</span>
                 <img src="IMAGENES/iphone15pro.png" alt="" class="img-item">
                 <span class="precio-item">1.219€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span class="titulo-item">Iphone 15</span>
+                <span class="titulo-item">Móvil - Iphone 15</span>
                 <img src="IMAGENES/iphone15.png" alt="" class="img-item">
                 <span class="precio-item">959€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span class="titulo-item">Iphone 14</span>
+                <span class="titulo-item">Móvil - Iphone 14</span>
                 <img src="IMAGENES/iphone14.png" alt="" class="img-item">
                 <span class="precio-item">859€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span class="titulo-item">Iphone SE</span>
+                <span class="titulo-item">Móvil - Iphone SE</span>
                 <img src="IMAGENES/IphoneSE.png" alt="" class="img-item">
                 <span class="precio-item">529€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span class="titulo-item">Samsung A25</span>
+                <span class="titulo-item">Móvil - Samsung A25</span>
                 <img src="IMAGENES/Samsunga25.png" alt="" class="img-item">
                 <span class="precio-item">250€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span class="titulo-item">Samsung S23</span>
+                <span class="titulo-item">Móvil - Samsung S23</span>
                 <img src="IMAGENES/SamsunS23.png" alt="" class="img-item">
                 <span class="precio-item">650€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span class="titulo-item">Samsung A35</span>
+                <span class="titulo-item">Móvil - Samsung A35</span>
                 <img src="IMAGENES/Samsunga35.png" alt="" class="img-item">
                 <span class="precio-item">399€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span class="titulo-item">Samsung A55</span>
+                <span class="titulo-item">Móvil - Samsung A55</span>
                 <img src="IMAGENES/Samsnga55.png" alt="" class="img-item">
                 <span class="precio-item">499€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span class="titulo-item">Xiaomi Redmi 12</span>
+                <span class="titulo-item">Móvil - Xiaomi Redmi 12</span>
                 <img src="IMAGENES/XiaomiRedmi12.png" alt="" class="img-item">
                 <span class="precio-item">129€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span class="titulo-item">Xiaomi Redmi Note 13</span>
+                <span class="titulo-item">Móvil - Xiaomi Redmi Note 13</span>
                 <img src="IMAGENES/XiaomiRedmiNote13.png" alt="" class="img-item">
                 <span class="precio-item">229€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span class="titulo-item">Xiaomi Redmi Note 13 Pro</span>
+                <span class="titulo-item">Móvil - Xiaomi Redmi Note 13 Pro</span>
                 <img src="IMAGENES/XiaomiRedmiNote13Pro.png" alt="" class="img-item">
                 <span class="precio-item">345€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span class="titulo-item">Xiaomi Redmi 13C</span>
+                <span class="titulo-item">Móvil - Xiaomi Redmi 13C</span>
                 <img src="IMAGENES/XiaomiRedmi13C.png" alt="" class="img-item">
                 <span class="precio-item">139€</span>
                 <button class="boton-item">Agregar al Carrito</button>

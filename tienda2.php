@@ -46,42 +46,42 @@
         <!-- Contenedor de elementos -->
         <div class="contenedor-items">
             <div class="item">
-                <span class="titulo-item">Portátil gaming - MSI THIN GF63 12VE-026ES</span>
+                <span class="titulo-item">Portátil - gaming - MSI THIN GF63 12VE-026ES</span>
                 <img src="IMAGENES/msi1.png" alt="" class="img-item">
                 <span class="precio-item">969€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_portatil-gaming-msi-thin-gf63-12ve-026es-156-full-hd-intelr-coretm-i7-12650h-16gb-ram-512gb-ssd-geforce-rtx-4050-windows-11-home-1555086.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-TOP.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8u0fRqEb9kndi_XxHG95a9uWU1t5GFZymzBx0lz6ch69-ltSdOk6dsaArueEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">Portátil gaming - MSI Thin GF63 12UCX-1076XES</span>
+                <span class="titulo-item">Portátil - gaming - MSI Thin GF63 12UCX-1076XES</span>
                 <img src="IMAGENES/msi2.png" alt="" class="img-item">
                 <span class="precio-item">709€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_portatil-gaming-msi-thin-gf63-12ucx-1076xes-156-full-hd-intelr-coretm-i5-12450h-16gb-ram-512gb-ssd-geforce-rtxtm-2050-sin-sistema-operativo-1569650.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-TOP.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8sAz5sSDDe5c0DvrYszvF-iYstzPsQ7dERM8FbCZ7HIMMLZKfPr7AUaAoGREALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">Portátil gaming - MSI Pulse 15 B13VFK-442XES</span>
+                <span class="titulo-item">Portátil - gaming - MSI Pulse 15 B13VFK-442XES</span>
                 <img src="IMAGENES/msi3.png" alt="" class="img-item">
                 <span class="precio-item">1.538€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_portatil-gaming-msi-pulse-15-b13vfk-442xes-156-qhd-intelr-coretm-i7-13700h-32gb-ram-1tb-ssd-geforce-rtxtm-4060-sin-sistema-operativo-1558941.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-TOP.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8sr6x3e-uWSudzlWiwGKFB2PK6-EOYB4_8A2ekbzjGzZYXSPEyhN28aApzBEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">Razer Blade 17</span>
+                <span class="titulo-item">Pórtatil - Razer Blade 17</span>
                 <img src="IMAGENES/razerport1.png" alt="" class="img-item">
                 <span class="precio-item">1.999€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.pccomponentes.com/razer-blade-17-4k-144hz-intel-core-i9-12900h-32gb-1tb-ssd-rtx-3070ti-173?s_kwcid=AL!14405!3!649445392543!!!g!2310861622017!&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8ur66dhI97Idx0yIt8N2QDUwDJui_UvHQ26XeESr2cpZUh421B_lrkaAk9bEALw_wcB-->
             </div>
             <div class="item">
-                <span class="titulo-item">Razer Blade 16</span>
+                <span class="titulo-item">Portátil - Razer Blade 16</span>
                 <img src="IMAGENES/razerport2.png" alt="" class="img-item">
                 <span class="precio-item">4.999€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.pccomponentes.com/razer-blade-16-doble-resolucion-uhd-fhd-intel-core-i9-13950hx-32gb-2tb-ssd-rtx-4090-16?s_kwcid=AL!14405!3!649445392543!!!g!2331554351914!&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8v2HidUuGx9bR2_yJ7es5G2NQjW2umJZ9CBFM3VlcwSqee83QqL2tEaAiKXEALw_wcB-->
             </div>
             <div class="item">
-                <span class="titulo-item">Razer Blade 16 2024</span>
+                <span class="titulo-item">Portátil - Razer Blade 16 2024</span>
                 <img src="IMAGENES/razerport3.png" alt="" class="img-item">
                 <span class="precio-item">5.299€</span>
                 <button class="boton-item">Agregar al Carrito</button>
@@ -111,21 +111,21 @@
                 <!--https://www.mediamarkt.es/es/product/_portatil-lenovo-ideapad-slim-5-16irl8-16-wuxga-intelr-coretm-i7-13620h-16gb-ram-512gb-ssd-uhd-graphics-windows-11-home-1558261.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-TOP.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8vDq4gA3sAcE0d0VJrtKmXjuwFP1qAhaHH6_iIAKlSDoFK57j4JRb0aAj8vEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">Apple MacBook Air (2022)</span>
+                <span class="titulo-item">Portátil - Apple MacBook Air (2022)</span>
                 <img src="IMAGENES/mac1.png" alt="" class="img-item">
                 <span class="precio-item">1.099€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_apple-macbook-air-2022-136-retina-chip-m2-de-apple-gpu-8-nucleos-8-gb-256-gb-ssd-macos-teclado-magic-keyboard-touch-id-gris-espacial-1534476.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-TOP.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8u_GCgL0xeNZJuclFl9Prhe1pgGG7sez2dY_q2jicI2xzmS8TQUa0oaAhEOEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">Apple MacBook Air (2024)</span>
+                <span class="titulo-item">Portátil - Apple MacBook Air (2024)</span>
                 <img src="IMAGENES/mac2.png" alt="" class="img-item">
                 <span class="precio-item">1.439€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_apple-macbook-air-2024-153-chip-m3-gpu-de-10-nucleos-8-gb-ram-256gb-de-ssd-teclado-magic-keyboard-touch-id-macos-medianoche-1571103.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-TOP.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8uhKkRB5e-NV5cbJHU-yDltrfLq_VEenGV1LgTAId84h2lJueXiyNwaAheBEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">Apple MacBook Pro (2023)</span>
+                <span class="titulo-item">Portátil - Apple MacBook Pro (2023)</span>
                 <img src="IMAGENES/mac3.png" alt="" class="img-item">
                 <span class="precio-item">1.799€</span>
                 <button class="boton-item">Agregar al Carrito</button>

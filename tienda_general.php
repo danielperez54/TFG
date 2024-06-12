@@ -41,7 +41,7 @@
 <br><br><br><br><br>
 <div>
     <div class="propiedades-buscador">
-    <input type="text" name="buscador" id="buscador" placeholder="Busca aquí tu producto">
+    <input type="text"  name="buscador" id="buscador" placeholder="Busca aquí tu producto">
     <!--<button onclick="busc()">Presioname</button>-->
     </div>
 </div>
@@ -50,73 +50,73 @@
         <!-- Contenedor de elementos -->
         <div class="contenedor-items">
             <div class="item">
-                <span id="product" class="titulo-item">Iphone 15 PRO</span>
+                <span id="product" class="titulo-item">Móvil - Iphone 15 PRO</span>
                 <img src="IMAGENES/iphone15pro.png" alt="" class="img-item">
                 <span class="precio-item">1.219€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Iphone 15</span>
+                <span id="product" class="titulo-item">Móvil - Iphone 15</span>
                 <img src="IMAGENES/iphone15.png" alt="" class="img-item">
                 <span class="precio-item">959€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Iphone 14</span>
+                <span id="product" class="titulo-item">Móvil - Iphone 14</span>
                 <img src="IMAGENES/iphone14.png" alt="" class="img-item">
                 <span class="precio-item">859€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Iphone SE</span>
+                <span id="product" class="titulo-item">Móvil - Iphone SE</span>
                 <img src="IMAGENES/IphoneSE.png" alt="" class="img-item">
                 <span class="precio-item">529€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Samsung A25</span>
+                <span id="product" class="titulo-item">Móvil - Samsung A25</span>
                 <img src="IMAGENES/Samsunga25.png" alt="" class="img-item">
                 <span class="precio-item">250€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Samsung S23</span>
+                <span id="product" class="titulo-item">Móvil - Samsung S23</span>
                 <img src="IMAGENES/SamsunS23.png" alt="" class="img-item">
                 <span class="precio-item">650€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Samsung A35</span>
+                <span id="product" class="titulo-item">Móvil - Samsung A35</span>
                 <img src="IMAGENES/Samsunga35.png" alt="" class="img-item">
                 <span class="precio-item">399€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Samsung A55</span>
+                <span id="product" class="titulo-item">Móvil - Samsung A55</span>
                 <img src="IMAGENES/Samsnga55.png" alt="" class="img-item">
                 <span class="precio-item">499€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Xiaomi Redmi 12</span>
+                <span id="product" class="titulo-item">Móvil - Xiaomi Redmi 12</span>
                 <img src="IMAGENES/XiaomiRedmi12.png" alt="" class="img-item">
                 <span class="precio-item">129€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Xiaomi Redmi Note 13</span>
+                <span id="product" class="titulo-item">Móvil - Xiaomi Redmi Note 13</span>
                 <img src="IMAGENES/XiaomiRedmiNote13.png" alt="" class="img-item">
                 <span class="precio-item">229€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Xiaomi Redmi Note 13 Pro</span>
+                <span id="product" class="titulo-item">Móvil - Xiaomi Redmi Note 13 Pro</span>
                 <img src="IMAGENES/XiaomiRedmiNote13Pro.png" alt="" class="img-item">
                 <span class="precio-item">345€</span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Xiaomi Redmi 13C</span>
+                <span id="product" class="titulo-item">Móvil - Xiaomi Redmi 13C</span>
                 <img src="IMAGENES/XiaomiRedmi13C.png" alt="" class="img-item">
                 <span class="precio-item">139€</span>
                 <button class="boton-item">Agregar al Carrito</button>
@@ -143,21 +143,21 @@
                 <!--https://www.mediamarkt.es/es/product/_portatil-gaming-msi-pulse-15-b13vfk-442xes-156-qhd-intelr-coretm-i7-13700h-32gb-ram-1tb-ssd-geforce-rtxtm-4060-sin-sistema-operativo-1558941.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-TOP.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8sr6x3e-uWSudzlWiwGKFB2PK6-EOYB4_8A2ekbzjGzZYXSPEyhN28aApzBEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Razer Blade 17</span>
+                <span id="product" class="titulo-item">Portátil - Razer Blade 17</span>
                 <img src="IMAGENES/razerport1.png" alt="" class="img-item">
                 <span class="precio-item">1.999€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.pccomponentes.com/razer-blade-17-4k-144hz-intel-core32-i9-12900h-gb-1tb-ssd-rtx-3070ti-173?s_kwcid=AL!14405!3!649445392543!!!g!2310861622017!&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8ur66dhI97Idx0yIt8N2QDUwDJui_UvHQ26XeESr2cpZUh421B_lrkaAk9bEALw_wcB-->
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Razer Blade 16</span>
+                <span id="product" class="titulo-item">Portátil - Razer Blade 16</span>
                 <img src="IMAGENES/razerport2.png" alt="" class="img-item">
                 <span class="precio-item">4.999€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.pccomponentes.com/razer-blade-16-doble-resolucion-uhd-fhd-intel-core-i9-13950hx-32gb-2tb-ssd-rtx-4090-16?s_kwcid=AL!14405!3!649445392543!!!g!2331554351914!&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8v2HidUuGx9bR2_yJ7es5G2NQjW2umJZ9CBFM3VlcwSqee83QqL2tEaAiKXEALw_wcB-->
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Razer Blade 16 2024</span>
+                <span id="product" class="titulo-item">Portátil - Razer Blade 16 2024</span>
                 <img src="IMAGENES/razerport3.png" alt="" class="img-item">
                 <span class="precio-item">5.299€</span>
                 <button class="boton-item">Agregar al Carrito</button>
@@ -187,21 +187,21 @@
                 <!--https://www.mediamarkt.es/es/product/_portatil-lenovo-ideapad-slim-5-16irl8-16-wuxga-intelr-coretm-i7-13620h-16gb-ram-512gb-ssd-uhd-graphics-windows-11-home-1558261.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-TOP.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8vDq4gA3sAcE0d0VJrtKmXjuwFP1qAhaHH6_iIAKlSDoFK57j4JRb0aAj8vEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Apple MacBook Air (2022)</span>
+                <span id="product" class="titulo-item">Portátil - Apple MacBook Air (2022)</span>
                 <img src="IMAGENES/mac1.png" alt="" class="img-item">
                 <span class="precio-item">1.099€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_apple-macbook-air-2022-136-retina-chip-m2-de-apple-gpu-8-nucleos-8-gb-256-gb-ssd-macos-teclado-magic-keyboard-touch-id-gris-espacial-1534476.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-TOP.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8u_GCgL0xeNZJuclFl9Prhe1pgGG7sez2dY_q2jicI2xzmS8TQUa0oaAhEOEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Apple MacBook Air (2024)</span>
+                <span id="product" class="titulo-item">Portátil - Apple MacBook Air (2024)</span>
                 <img src="IMAGENES/mac2.png" alt="" class="img-item">
                 <span class="precio-item">1.439€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_apple-macbook-air-2024-153-chip-m3-gpu-de-10-nucleos-8-gb-ram-256gb-de-ssd-teclado-magic-keyboard-touch-id-macos-medianoche-1571103.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-TOP.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8uhKkRB5e-NV5cbJHU-yDltrfLq_VEenGV1LgTAId84h2lJueXiyNwaAheBEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">Apple MacBook Pro (2023)</span>
+                <span id="product" class="titulo-item">Portátil - Apple MacBook Pro (2023)</span>
                 <img src="IMAGENES/mac3.png" alt="" class="img-item">
                 <span class="precio-item">1.799€</span>
                 <button class="boton-item">Agregar al Carrito</button>
@@ -229,21 +229,21 @@
                 <!--https://www.mediamarkt.es/es/product/_huntsman-v2-purple-switch-spanish-layout-1531152.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-RESTO.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8uvJ870315KxhKC0RZ6LJSFCo1CxVhO3Fb9t2V6yc9cT--U4EahXq0aAqUjEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">APPLE Magic Keyboard Inalámbrico Plata</span>
+                <span id="product" class="titulo-item">Teclado - APPLE Magic Keyboard Inalámbrico Plata</span>
                 <img src="IMAGENES/appletecl1.png" alt="" class="img-item">
                 <span class="precio-item">119€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_apple-magic-keyboard-teclado-inalambrico-numerico-bluetooth%C2%AE-qwerty-espanol-plata-1368951.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8uy3fAIETY1cDLXkrWgUBE4y_E7uqpmycKmPO8kBp8ijkLRKzk5micaAqdzEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">APPLE Magic Keyboard Inalámbrico Blanco</span>
+                <span id="product" class="titulo-item">Teclado - APPLE Magic Keyboard Inalámbrico Blanco</span>
                 <img src="IMAGENES/appletecl2.png" alt="" class="img-item">
                 <span class="precio-item">93,99€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_apple-magic-keyboard-inalambrico-y-recargable-cable-usb-c-a-lightning-tejido-blanco-1515403.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8sTPNR0B2Lk4NIfc3V8Ghjeo6Vd1ObZ82kpk5jaSW6Vm2CY5OyPPq4aAoa2EALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">APPLE Magic Keyboard</span>
+                <span id="product" class="titulo-item">Teclado - APPLE Magic Keyboard</span>
                 <img src="IMAGENES/appletecl3.png" alt="" class="img-item">
                 <span class="precio-item">179€</span>
                 <button class="boton-item">Agregar al Carrito</button>
@@ -292,14 +292,14 @@
                 <!--https://www.mediamarkt.es/es/product/_raton-gaming-razer-basilisk-v3-por-cable-26000-ppp-11-teclas-programables-negro-1531149.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-RESTO.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8uzzGtamVjDOf6K0I0RjNkxIbU9H3DffZSKfe5JtmwkuXeuRI777Z4aAg08EALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">APPLE Magic Mouse</span>
+                <span id="product" class="titulo-item">Ratón - APPLE Magic Mouse</span>
                 <img src="IMAGENES/applerat1.png" alt="" class="img-item">
                 <span class="precio-item">69,99€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_apple-magic-mouse-raton-inalambrico-y-recargable-superficie-multi-touchcable-usb-c-a-lightning-blanco-1515406.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8va5XXD9VaIITKZRmVZRGGUO1L8ENOGIlh_acoMOe9l1k6Oj4XrHPIaAnhrEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">APPLE Magic Mouse</span>
+                <span id="product" class="titulo-item">Ratón - APPLE Magic Mouse</span>
                 <img src="IMAGENES/applerat2.png" alt="" class="img-item">
                 <span class="precio-item">89,99€</span>
                 <button class="boton-item">Agregar al Carrito</button>
@@ -348,21 +348,21 @@
                 <!--https://www.mediamarkt.es/es/product/_auriculares-gaming-razer-kraken-v3-cancelacion-pasiva-ruido-razer-chromatm-rgb-microfono-razer-hyperclear-negro-1532689.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-RESTO.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8vot6GcpR0HyN5vAOK2VO4ji2Cw_nws3xuIMfgIkUHCu70K7l6aNQkaAoK7EALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">APPLE EarPods</span>
+                <span id="product" class="titulo-item">Auriculares - APPLE EarPods</span>
                 <img src="IMAGENES/applecas1.png" alt="" class="img-item">
                 <span class="precio-item">14,99€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_apple-earpods-auriculares-de-boton-cable-conexion-lightning-microfono-blanco-1340798.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8t_DYR1-RJlnigGg97nf6XVs25m6yesIyWXb3jlkLHonxf1sxpdaiIaAlQDEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">APPLE AirPods (2019 2ª gen)</span>
+                <span id="product" class="titulo-item">Auriculares - APPLE AirPods (2019 2ª gen)</span>
                 <img src="IMAGENES/applecas2.png" alt="" class="img-item">
                 <span class="precio-item">109,99€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_apple-airpods-2019-2%C2%AA-gen-inalambricos-bluetooth%C2%AE-estuche-carga-no-inalambrica-chip-h1-siri-blanco-1450020.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8tMCb7CN7DfnkHQF7O7la6AcyCdkNNtLYif7_f1dsEBxQi5O3ayzq4aAh6uEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span id="product" class="titulo-item">APPLE AirPods Max</span>
+                <span id="product" class="titulo-item">Auriculares - APPLE AirPods Max</span>
                 <img src="IMAGENES/applecas3.png" alt="" class="img-item">
                 <span class="precio-item">541,99€</span>
                 <button class="boton-item">Agregar al Carrito</button>

@@ -66,21 +66,21 @@
                 <!--https://www.mediamarkt.es/es/product/_huntsman-v2-purple-switch-spanish-layout-1531152.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-RESTO.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8uvJ870315KxhKC0RZ6LJSFCo1CxVhO3Fb9t2V6yc9cT--U4EahXq0aAqUjEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">APPLE Magic Keyboard Inalámbrico Plata</span>
+                <span class="titulo-item">Teclado - APPLE Magic Keyboard Inalámbrico Plata</span>
                 <img src="IMAGENES/appletecl1.png" alt="" class="img-item">
                 <span class="precio-item">119€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_apple-magic-keyboard-teclado-inalambrico-numerico-bluetooth%C2%AE-qwerty-espanol-plata-1368951.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8uy3fAIETY1cDLXkrWgUBE4y_E7uqpmycKmPO8kBp8ijkLRKzk5micaAqdzEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">APPLE Magic Keyboard Inalámbrico Blanco</span>
+                <span class="titulo-item">Teclado - APPLE Magic Keyboard Inalámbrico Blanco</span>
                 <img src="IMAGENES/appletecl2.png" alt="" class="img-item">
                 <span class="precio-item">93,99€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_apple-magic-keyboard-inalambrico-y-recargable-cable-usb-c-a-lightning-tejido-blanco-1515403.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8sTPNR0B2Lk4NIfc3V8Ghjeo6Vd1ObZ82kpk5jaSW6Vm2CY5OyPPq4aAoa2EALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">APPLE Magic Keyboard</span>
+                <span class="titulo-item">Teclado - APPLE Magic Keyboard</span>
                 <img src="IMAGENES/appletecl3.png" alt="" class="img-item">
                 <span class="precio-item">179€</span>
                 <button class="boton-item">Agregar al Carrito</button>
@@ -129,14 +129,14 @@
                 <!--https://www.mediamarkt.es/es/product/_raton-gaming-razer-basilisk-v3-por-cable-26000-ppp-11-teclas-programables-negro-1531149.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-RESTO.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8uzzGtamVjDOf6K0I0RjNkxIbU9H3DffZSKfe5JtmwkuXeuRI777Z4aAg08EALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">APPLE Magic Mouse</span>
+                <span class="titulo-item">Ratón - APPLE Magic Mouse</span>
                 <img src="IMAGENES/applerat1.png" alt="" class="img-item">
                 <span class="precio-item">69,99€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_apple-magic-mouse-raton-inalambrico-y-recargable-superficie-multi-touchcable-usb-c-a-lightning-blanco-1515406.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8va5XXD9VaIITKZRmVZRGGUO1L8ENOGIlh_acoMOe9l1k6Oj4XrHPIaAnhrEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">APPLE Magic Mouse</span>
+                <span class="titulo-item">Ratón - APPLE Magic Mouse</span>
                 <img src="IMAGENES/applerat2.png" alt="" class="img-item">
                 <span class="precio-item">89,99€</span>
                 <button class="boton-item">Agregar al Carrito</button>
@@ -185,21 +185,21 @@
                 <!--https://www.mediamarkt.es/es/product/_auriculares-gaming-razer-kraken-v3-cancelacion-pasiva-ruido-razer-chromatm-rgb-microfono-razer-hyperclear-negro-1532689.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-RESTO.CATEGORIAS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8vot6GcpR0HyN5vAOK2VO4ji2Cw_nws3xuIMfgIkUHCu70K7l6aNQkaAoK7EALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">APPLE EarPods</span>
+                <span class="titulo-item">Auriculares - APPLE EarPods</span>
                 <img src="IMAGENES/applecas1.png" alt="" class="img-item">
                 <span class="precio-item">14,99€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_apple-earpods-auriculares-de-boton-cable-conexion-lightning-microfono-blanco-1340798.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8t_DYR1-RJlnigGg97nf6XVs25m6yesIyWXb3jlkLHonxf1sxpdaiIaAlQDEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">APPLE AirPods (2019 2ª gen)</span>
+                <span class="titulo-item">Auriculares - APPLE AirPods (2019 2ª gen)</span>
                 <img src="IMAGENES/applecas2.png" alt="" class="img-item">
                 <span class="precio-item">109,99€</span>
                 <button class="boton-item">Agregar al Carrito</button>
                 <!--https://www.mediamarkt.es/es/product/_apple-airpods-2019-2%C2%AA-gen-inalambricos-bluetooth%C2%AE-estuche-carga-no-inalambrica-chip-h1-siri-blanco-1450020.html?utm_source=google&utm_medium=cpc&utm_campaign=rt_shopping_generic_nsp_na_MM-ES-S-G-CAT-PLA-PMAX.PH-PROMO.SECUNDARIOS-ALL-ALL&gad_source=1&gclid=Cj0KCQjw0_WyBhDMARIsAL1Vz8tMCb7CN7DfnkHQF7O7la6AcyCdkNNtLYif7_f1dsEBxQi5O3ayzq4aAh6uEALw_wcB&gclsrc=aw.ds-->
             </div>
             <div class="item">
-                <span class="titulo-item">APPLE AirPods Max</span>
+                <span class="titulo-item">Auriculares - APPLE AirPods Max</span>
                 <img src="IMAGENES/applecas3.png" alt="" class="img-item">
                 <span class="precio-item">541,99€</span>
                 <button class="boton-item">Agregar al Carrito</button>
