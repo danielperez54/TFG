@@ -23,7 +23,7 @@ error_log("Correo: $Correo");
 error_log("Password (hashed): $Password");
 
 // Utilizar una declaración preparada para la consulta
-$stmt = $conexion->prepare("SELECT * FROM usuariosV2 WHERE mail = ? AND password = ?");
+$stmt = $conexion->prepare("SELECT * FROM usuariosv4 WHERE mail = ? AND password = ?");
 if ($stmt === false) {
     die('Error en la preparación de la declaración: ' . htmlspecialchars($conexion->error));
 }

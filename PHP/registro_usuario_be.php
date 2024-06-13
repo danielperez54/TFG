@@ -25,7 +25,7 @@ try {
     $Password = hash('sha512', $Password);
 
     // Verificación de si el correo ya está en uso
-    $stmt = $conexion->prepare("SELECT * FROM usuariosV2 WHERE mail = ?");
+    $stmt = $conexion->prepare("SELECT * FROM usuariosv4 WHERE mail = ?");
     $stmt->bind_param("s", $Correo);
     $stmt->execute();
     $result = $stmt->get_result();
@@ -35,7 +35,7 @@ try {
     }
 
     // Query para insertar los datos
-    $stmt = $conexion->prepare("INSERT INTO usuariosV2 (Nombre, Apellidos, tlfn, mail, password, Localidad) VALUES (?, ?, ?, ?, ?, ?)");
+    $stmt = $conexion->prepare("INSERT INTO usuariosv4 (Nombre, Apellidos, tlfn, mail, password, Localidad) VALUES (?, ?, ?, ?, ?, ?)");
     $stmt->bind_param("ssssss", $Nombre, $Apellidos, $Teléfono, $Correo, $Password, $Localidad);
 
     // Ejecución del query
