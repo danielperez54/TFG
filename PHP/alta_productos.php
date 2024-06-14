@@ -1,25 +1,40 @@
 <?php
-$conexion = new mysqli("localhost", "usuario", "contraseña", "base_de_datos");
+// Incluir el archivo de conexión
+include 'conexion_be.php';
 
-if ($conexion->connect_error) {
-    die("Conexión fallida: " . $conexion->connect_error);
-}
+echo "Conexión exitosa a la base de datos.<br>";
 
+// Verificar si el formulario ha sido enviado
 if (isset($_POST['submit'])) {
-    $nombre = $_POST['nombre'];
-    $descripcion = $_POST['descripcion'];
-    $precio = $_POST['precio'];
-    $imagen = $_FILES['imagen']['tmp_name'];
-    $imgContenido = addslashes(file_get_contents($imagen));
+    echo "Formulario enviado.<br>";
 
-    $sql = "INSERT INTO productos (nombre, descripcion, precio, imagen) VALUES ('$nombre', '$descripcion', '$precio', '$imgContenido')";
+    $nombre = mysqli_real_escape_string($conexion, $_POST['nombre']);
+    $descripcion = mysqli_real_escape_string($conexion, $_POST['descripcion']);
+    $precio = mysqli_real_escape_string($conexion, $_POST['precio']);
 
-    if ($conexion->query($sql) === TRUE) {
-        echo "Imagen insertada correctamente.";
+    // Verificar si se ha subido un archivo
+    if (is_uploaded_file($_FILES['imagen']['tmp_name'])) {
+        echo "Imagen subida correctamente.<br>";
+
+        $imagen = $_FILES['imagen']['tmp_name'];
+        $imgContenido = addslashes(file_get_contents($imagen));
+
+        // Insertar los datos en la base de datos
+        $sql = "INSERT INTO productos (nombre, descripcion, precio, imagen) VALUES ('$nombre', '$descripcion', '$precio', '$imgContenido')";
+
+        if (mysqli_query($conexion, $sql)) {
+            echo "Datos insertados correctamente.<br>";
+            // Redirigir al usuario a la página de bienvenida
+            header("Location: ../bienvenida.php");
+            exit();
+        } else {
+            echo "Error al insertar en la base de datos: " . mysqli_error($conexion) . "<br>";
+        }
     } else {
-        echo "Error: " . $sql . "<br>" . $conexion->error;
+        echo "Error: No se ha subido ninguna imagen.<br>";
     }
 }
 
-$conexion->close();
+// Cerrar la conexión
+mysqli_close($conexion);
 ?>

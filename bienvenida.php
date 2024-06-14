@@ -26,7 +26,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Website with a contact Form 01</title>
-    <link rel="stylesheet" href="CSS/bienvenida4.css">
+    <link rel="stylesheet" href="CSS/bienvenida5.css">
     <!-- GOOGLE FONTs LETRAS-->
     <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
     <!-- FONT AWESOME CSS -->
@@ -52,9 +52,17 @@
             <div class="container__nav">
                 <nav>
                     <ul>
-                        <li><a href="bienvenida.php">Inicio</a></li>
-                        <li><a href="tienda_general.php">Tienda</a></li>  
-                        <li><a href="PHP/cerrar_sesion.php"><i class="fa-solid fa-arrow-right-from-bracket"></i></a></li>        
+                    <ul class="menu">
+                            <li class="submenu">
+                                 <a href="altaProductos.php">Alta Productos</a>
+                                     <ul class="submenu-content">
+                                         <li><a href="bajaProductos.php">Baja Productos</a></li>
+                                    </ul>
+                                        </li>
+                                        <li><a href="bienvenida.php">Inicio</a></li>
+                                        <li><a href="tienda_general.php">Tienda</a></li>
+                                        <li><a href="PHP/cerrar_sesion.php"><i class="fa-solid fa-arrow-right-from-bracket"></i></a></li>
+                                    </ul>      
                     </ul>
                 </nav>
             </div>

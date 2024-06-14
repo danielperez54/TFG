@@ -157,6 +157,66 @@ ul {
     outline: 0;
 }
 
+
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: #747272;
+}
+
+.menu li {
+    display: inline-block;
+}
+
+.menu li a {
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu li a:hover {
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
+.submenu {
+    position: relative;
+}
+
+.submenu-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    height: 87px;
+    border-radius: 5px;
+}
+
+.submenu:hover .submenu-content {
+    display: block;
+}
+
+.submenu-content li {
+    display: block;
+}
+
+.submenu-content li a {
+    padding: 12px 16px;
+    text-decoration: none;
+    color: #333;
+    display: block;
+}
+
+.submenu-content li a:hover {
+    background-color: #ddd;
+    border-radius: 5px;
+}
+
 /* CONTACT INFO */
 .contact-info {
     background: #000;

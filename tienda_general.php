@@ -58,7 +58,7 @@
             <div class="item">
                 <span id="product" class="titulo-item">Móvil - Iphone 15</span>
                 <img src="IMAGENES/iphone15.png" alt="" class="img-item">
-                <span class="precio-item">959€</span>
+                <span class="precio-item"></span>
                 <button class="boton-item">Agregar al Carrito</button>
             </div>
             <div class="item">
