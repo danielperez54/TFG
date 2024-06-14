@@ -115,7 +115,7 @@
     <div class="card">
         <div class="box box1">
             <div class="content">
-                <img src="IMAGENES/iPhonee15.png" alt="">
+                <img src="IMAGENES/iPhon15.png" alt="">
                 <h3>Moviles</h3>
             </div>
         </div>

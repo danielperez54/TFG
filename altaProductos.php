@@ -43,42 +43,40 @@
     <br><br><br><br>
     <div class="content">
 
-        <div class="contact-wrapper animated bounceInUp">
-            <div class="contact-form">
-                <h3 class="logo">Registrar Producto<span> rellenando el siguiente formulario:</span></h3>
-                <form action="PHP/alta_productos.php" method="POST" enctype="multipart/form-data">
-                    <p>
-                        <label>Nombre del Producto</label>
-                        <input type="text" name="nombre" required>
-                    </p>
-                    <p>
-                        <label>Descripción</label>
-                        <textarea name="descripcion" required></textarea>
-                    </p>
-                    <p>
-                        <label>Precio</label>
-                        <input type="number" step="0.01" name="precio" required>
-                    </p>
-                    <p>
-                        <label>Imagen del Producto</label>
-                        <input type="file" name="imagen" accept="image/*" required>
-                    </p>
-                    <p class="block">
-                        <button class='button' type="submit" name="submit">Registrar Producto</button>
-                    </p>
-                </form>
-            </div>
-            <div class="contact-info">
-            <ul>
-                <p>
-                </p>
-                <li>Esperamos que tengas una cómoda navegación por nuestra página.</li>
-                <li>SI YA TIENES CUENTA INICIA SESIÓN <a href="Inicio_sesion.php">AQUÍ</a></li>
-            </ul>
-            <img src="IMAGENES/TEKNOCITY.png">
-        
-            </div>
-        </div>
+    <div class="contact-wrapper animated bounceInUp">
+    <div class="contact-form">
+        <h3 class="logo">Registrar Producto<span> rellenando el siguiente formulario:</span></h3>
+        <form action="PHP/alta_productos.php" method="POST" enctype="multipart/form-data">
+            <p>
+                <label>Nombre del Producto</label>
+                <input type="text" name="nombre" required>
+            </p>
+            <p>
+                <label>Descripción</label>
+                <textarea name="descripcion" required></textarea>
+            </p>
+            <p>
+                <label>Precio</label>
+                <input type="number" step="0.01" name="precio" required>
+            </p>
+            <p>
+                <label>Imagen del Producto</label>
+                <input type="file" name="imagen" accept="image/*" required>
+            </p>
+            <p class="block">
+                <button class='button' type="submit" name="submit">Registrar Producto</button>
+            </p>
+        </form>
+    </div>
+    <div class="contact-info">
+        <ul>
+            <li>Esperamos que tengas una cómoda navegación por nuestra página.</li>
+            <li>Si ya tienes cuenta, inicia sesión <a href="Inicio_sesion.php">AQUÍ</a>.</li>
+        </ul>
+        <img src="IMAGENES/TEKNOCITY.png">
+    </div>
+</div>
+
 
     </div>
     <br><br><br><br>
