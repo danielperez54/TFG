@@ -1,25 +1,18 @@
-document.addEventListener("DOMContentLoaded", () => {
-    document.addEventListener("keyup", e => {
-        if (e.target.matches("#buscador")) {
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('buscador');
+    const itemsContainer = document.querySelector('.contenedor-items');
 
-            if (e.key === "Escape") e.target.value = "";
+    searchInput.addEventListener('input', function(e) {
+        const searchTerm = e.target.value.toLowerCase();
+        const items = itemsContainer.querySelectorAll('.product');
 
-            console.log("Buscando:", e.target.value);
-
-            var items = document.getElementsByClassName("item");
-
-            Array.from(items).forEach(item => {
-                var titulo = item.getElementsByClassName("titulo-item")[0];
-                var text = titulo.innerText || titulo.textContent;
-
-                if (text.toLowerCase().includes(e.target.value.toLowerCase())) {
-                    item.classList.remove("filtro");
-                    console.log("Mostrando:", text);
-                } else {
-                    item.classList.add("filtro");
-                    console.log("Ocultando:", text);
-                }
-            });
-        }
+        items.forEach(function(item) {
+            const itemName = item.querySelector('h3').textContent.toLowerCase();
+            if (itemName.includes(searchTerm)) {
+                item.style.display = '';
+            } else {
+                item.style.display = 'none';
+            }
+        });
     });
 });
